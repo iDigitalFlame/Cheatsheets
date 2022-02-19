@@ -8,7 +8,7 @@ Here is a collection of all the Cheatsheet/Guides I've collected over the years.
 
 - [File Transfers](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/FileTransfers.pdf)
 - [GDB](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/GDB.pdf)
-- [GoogleD orks](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/GoogleDorks.pdf)
+- [Google Dorks](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/GoogleDorks.pdf)
 - [Linux Commands Reference](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/LinuxCommands.pdf)
 - [Metasploit](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/Metasploit.pdf)
 - [Meterpreter](https://raw.githubusercontent.com/iDigitalFlame/Cheatsheets/main/Meterpreter.pdf)
